@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sale.wav</file>
+        <file>Splash.png</file>
+        <file>warning1.wav</file>
+        <file>warning2.wav</file>
+        <file>wave.wav</file>
+        <file>message.wav</file>
+        <file>clockAlarm.wav</file>
+        <file>logoff.wav</file>
+        <file>logon.wav</file>
+        <file>port_Book_UI_Simple_Page_Border.png</file>
+        <file>port_Book_UI_Filagree_Ornament_02.png</file>
+    </qresource>
+</RCC>
